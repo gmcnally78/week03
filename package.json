@@ -11,8 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "gray-matter": "^4.0.3",
-    "next": "^11.1.2",
-    "remark": "^14.0.1",
-    "remark-html": "^14.0.1"
+    "next": "^11.1.2"
   }
 }
