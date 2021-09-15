@@ -1,3 +1,20 @@
 {
-  "files": {}
+  "files": {
+    "nextjs-blog/pages/api/hello.js": [
+      {
+        "id": "d955ee81-fe7f-4b6d-ad23-b43b679965fb",
+        "line": 1,
+        "version": 2,
+        "index": 0
+      }
+    ],
+    "nextjs-blog/pages/hello.js": [
+      {
+        "id": "3e0ff064-8907-4f42-a926-b90e24579ba8",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ]
+  }
 }
